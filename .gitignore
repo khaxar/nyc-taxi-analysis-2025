@@ -1,0 +1,18 @@
+# Ignore Python environment
+venv/
+.env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore data files
+data/*.parquet
+data/*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter output
+*.pyc
+*.pyo
+*.pyd
