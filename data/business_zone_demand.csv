@@ -1,0 +1,151 @@
+Borough,Zone,total_revenue,avg_revenue,num_trips
+Bronx,Claremont/Bathgate,33.44,33.44,1
+Bronx,Co-Op City,16.0,16.0,1
+Bronx,East Concourse/Concourse Village,41.129999999999995,20.564999999999998,2
+Bronx,East Tremont,16.0,16.0,1
+Bronx,Mott Haven/Port Morris,0.0,0.0,2
+Bronx,Pelham Parkway,32.0,16.0,2
+Bronx,Soundview/Bruckner,25.5,25.5,1
+Bronx,Van Cortlandt Village,29.01,29.01,1
+Bronx,Van Nest/Morris Park,30.87,15.435,2
+Bronx,West Farms/Bronx River,36.5,36.5,1
+Bronx,Westchester Village/Unionport,16.0,16.0,1
+Bronx,Williamsbridge/Olinville,10.86,10.86,1
+Bronx,Woodlawn/Wakefield,20.31,20.31,1
+Brooklyn,Bay Ridge,16.0,16.0,1
+Brooklyn,Bensonhurst West,20.0,20.0,1
+Brooklyn,Boerum Hill,17.51,8.755,2
+Brooklyn,Borough Park,41.99,41.99,1
+Brooklyn,Brooklyn Heights,91.41,30.47,3
+Brooklyn,Brownsville,42.62,42.62,1
+Brooklyn,Bushwick South,178.67000000000002,35.734,5
+Brooklyn,Canarsie,37.61,18.805,2
+Brooklyn,Clinton Hill,84.5,28.166666666666668,3
+Brooklyn,Cobble Hill,0.0,0.0,1
+Brooklyn,Columbia Street,16.0,16.0,1
+Brooklyn,Coney Island,22.0,22.0,1
+Brooklyn,Crown Heights North,35.0,17.5,2
+Brooklyn,Crown Heights South,58.96,29.48,2
+Brooklyn,Cypress Hills,72.76,24.253333333333334,3
+Brooklyn,Downtown Brooklyn/MetroTech,57.45,57.45,1
+Brooklyn,East Flatbush/Farragut,32.0,16.0,2
+Brooklyn,East Flatbush/Remsen Village,38.0,19.0,2
+Brooklyn,East New York,79.77000000000001,26.590000000000003,3
+Brooklyn,East Williamsburg,86.9,21.725,4
+Brooklyn,Erasmus,114.5,38.166666666666664,3
+Brooklyn,Flatbush/Ditmas Park,40.46,20.23,2
+Brooklyn,Flatlands,16.0,16.0,1
+Brooklyn,Fort Greene,32.96,16.48,2
+Brooklyn,Greenpoint,29.3,29.3,1
+Brooklyn,Homecrest,66.0,33.0,2
+Brooklyn,Manhattan Beach,0.0,0.0,1
+Brooklyn,Marine Park/Mill Basin,18.0,18.0,1
+Brooklyn,Midwood,26.0,26.0,1
+Brooklyn,Ocean Hill,25.0,25.0,1
+Brooklyn,Park Slope,81.58,27.19333333333333,3
+Brooklyn,Prospect Park,31.71,31.71,1
+Brooklyn,Prospect-Lefferts Gardens,58.75,19.583333333333332,3
+Brooklyn,Sheepshead Bay,16.0,16.0,1
+Brooklyn,South Williamsburg,132.0,44.0,3
+Brooklyn,Starrett City,16.0,16.0,1
+Brooklyn,Stuyvesant Heights,40.5,10.125,4
+Brooklyn,Williamsburg (South Side),18.54,18.54,1
+Brooklyn,Windsor Terrace,8.4,8.4,1
+EWR,Newark Airport,219.7,73.23333333333333,3
+Manhattan,Alphabet City,39.05,19.525,2
+Manhattan,Battery Park,54.75,27.375,2
+Manhattan,Battery Park City,113.84,56.92,2
+Manhattan,Central Harlem,108.36,36.12,3
+Manhattan,Central Harlem North,96.12,16.02,6
+Manhattan,Central Park,150.0,30.0,5
+Manhattan,Chinatown,26.75,26.75,1
+Manhattan,Clinton East,884.04,42.097142857142856,21
+Manhattan,Clinton West,163.65,54.550000000000004,3
+Manhattan,East Chelsea,460.89,30.726,15
+Manhattan,East Harlem North,185.15,23.14375,8
+Manhattan,East Harlem South,233.10000000000002,17.930769230769233,13
+Manhattan,East Village,150.75,37.6875,4
+Manhattan,Financial District North,160.32999999999998,26.721666666666664,6
+Manhattan,Financial District South,10.15,10.15,1
+Manhattan,Flatiron,198.44,39.688,5
+Manhattan,Garment District,382.3,27.307142857142857,14
+Manhattan,Gramercy,199.46,28.494285714285716,7
+Manhattan,Greenwich Village North,71.14,14.228,5
+Manhattan,Greenwich Village South,251.68,35.95428571428572,7
+Manhattan,Hamilton Heights,52.05,17.349999999999998,3
+Manhattan,Hudson Sq,61.69,20.563333333333333,3
+Manhattan,Kips Bay,217.57999999999998,27.197499999999998,8
+Manhattan,Lenox Hill East,181.57999999999998,15.131666666666666,12
+Manhattan,Lenox Hill West,160.51,20.06375,8
+Manhattan,Lincoln Square East,487.86,28.69764705882353,17
+Manhattan,Lincoln Square West,159.36,26.560000000000002,6
+Manhattan,Little Italy/NoLiTa,186.14,26.59142857142857,7
+Manhattan,Lower East Side,341.71,37.967777777777776,9
+Manhattan,Manhattan Valley,5.5,5.5,1
+Manhattan,Manhattanville,17.0,17.0,1
+Manhattan,Meatpacking/West Village West,71.37,35.685,2
+Manhattan,Midtown Center,298.98,17.587058823529414,17
+Manhattan,Midtown East,319.35,21.290000000000003,15
+Manhattan,Midtown North,187.0,20.77777777777778,9
+Manhattan,Midtown South,416.94,37.903636363636366,11
+Manhattan,Morningside Heights,118.5,39.5,3
+Manhattan,Murray Hill,442.32,40.21090909090909,11
+Manhattan,Penn Station/Madison Sq West,186.05,16.913636363636364,11
+Manhattan,Seaport,16.0,16.0,1
+Manhattan,SoHo,36.7,12.233333333333334,3
+Manhattan,Stuy Town/Peter Cooper Village,10.25,10.25,1
+Manhattan,Sutton Place/Turtle Bay North,243.18,34.74,7
+Manhattan,Times Sq/Theatre District,644.41,29.291363636363634,22
+Manhattan,TriBeCa/Civic Center,155.92000000000002,14.174545454545456,11
+Manhattan,Two Bridges/Seward Park,67.72,13.544,5
+Manhattan,UN/Turtle Bay South,93.37,18.674,5
+Manhattan,Union Sq,208.35999999999999,23.15111111111111,9
+Manhattan,Upper East Side North,93.19,11.64875,8
+Manhattan,Upper East Side South,186.7,16.972727272727273,11
+Manhattan,Upper West Side North,112.62,16.08857142857143,7
+Manhattan,Upper West Side South,276.36,23.03,12
+Manhattan,Washington Heights South,263.15,52.629999999999995,5
+Manhattan,West Chelsea/Hudson Yards,87.71000000000001,14.618333333333334,6
+Manhattan,West Village,332.84000000000003,27.736666666666668,12
+Manhattan,World Trade Center,167.5,55.833333333333336,3
+Manhattan,Yorkville East,123.94999999999999,30.987499999999997,4
+Manhattan,Yorkville West,406.65,36.96818181818182,11
+Queens,Astoria,170.47,56.82333333333333,3
+Queens,Auburndale,180.07999999999998,60.026666666666664,3
+Queens,Baisley Park,147.81,36.9525,4
+Queens,Breezy Point/Fort Tilden/Riis Beach,79.2,79.2,1
+Queens,Cambria Heights,25.0,25.0,1
+Queens,Corona,45.84,22.92,2
+Queens,Douglaston,28.42,28.42,1
+Queens,East Elmhurst,181.35,16.486363636363635,11
+Queens,Elmhurst,106.13,106.13,1
+Queens,Elmhurst/Maspeth,1.0,1.0,1
+Queens,Flushing,39.15,39.15,1
+Queens,Flushing Meadows-Corona Park,339.5,84.875,4
+Queens,Forest Hills,19.86,19.86,1
+Queens,Fresh Meadows,41.56,41.56,1
+Queens,Hillcrest/Pomonok,16.0,16.0,1
+Queens,JFK Airport,2819.33,52.20981481481481,54
+Queens,Jackson Heights,409.78,58.54,7
+Queens,Jamaica,93.92,23.48,4
+Queens,Jamaica Estates,47.41,23.705,2
+Queens,Kew Gardens,614.55,102.425,6
+Queens,LaGuardia Airport,563.14,56.314,10
+Queens,Laurelton,34.71,17.355,2
+Queens,Long Island City/Hunters Point,457.2,10.39090909090909,44
+Queens,Long Island City/Queens Plaza,111.8,27.95,4
+Queens,Maspeth,33.54,33.54,1
+Queens,Murray Hill-Queens,47.95,23.975,2
+Queens,Old Astoria,24.78,24.78,1
+Queens,Queens Village,32.0,16.0,2
+Queens,Queensbridge/Ravenswood,41.0,4.555555555555555,9
+Queens,Rego Park,24.08,24.08,1
+Queens,Richmond Hill,499.74,83.29,6
+Queens,Ridgewood,39.24,39.24,1
+Queens,Rosedale,60.2,60.2,1
+Queens,South Jamaica,17.0,8.5,2
+Queens,South Ozone Park,470.06,67.15142857142857,7
+Queens,Springfield Gardens South,36.0,36.0,1
+Queens,Steinway,52.9,26.45,2
+Queens,Sunnyside,25.14,25.14,1
+Queens,Woodside,104.2,52.1,2
