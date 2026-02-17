@@ -13,6 +13,6 @@ NYC Yellow Taxi trip records for January 2025.
 ## Key Findings
 - Revenue peaks at commute hours.
 - Longest trips originate mainly from Bronx residential zones (Fordham South, West Concourse, Van Nest/Morris Park, Woodlawn/Wakefield), plus Brooklyn (Cobble Hill, Kensington) and Queens (Jamaica Estates).
-- Tips weakly correlated with distance.
+- Tips strongly correlated with distance.
 - Weekdays have higher average fares.
-- Vendor 6 has the highest average trip revenue; Vendor 7 underperforms.
+- Vendor 1 has the higher average trip revenue;
