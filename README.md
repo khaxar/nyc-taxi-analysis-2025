@@ -1,18 +1,29 @@
 # NYC Taxi Analysis – January 2025
 
 ## Dataset
-NYC Yellow Taxi trip records for January 2025.
+
+NYC Yellow Taxi trip records for January 2025, covering two taxi companies (VendorID 1 and VendorID 2).
+
+Includes pickup/dropoff times, trip distance, total fare, tip amount, and PULocationID. Taxi zone lookup maps PULocationID to borough and zone names.
 
 ## Questions Explored
+
 - Revenue by hour
 - Longest pickup zones
-- Tips vs distance
-- Weekend vs weekday behavior
-- Vendor performance
+- Tips relative to trip distance
+- Weekday vs weekend behavior
+- Vendor performance comparison
 
 ## Key Findings
+
 - Revenue peaks at commute hours.
-- Longest trips originate mainly from Bronx residential zones (Fordham South, West Concourse, Van Nest/Morris Park, Woodlawn/Wakefield), plus Brooklyn (Cobble Hill, Kensington) and Queens (Jamaica Estates).
-- Tips strongly correlated with distance.
-- Weekdays have higher average fares.
-- Vendor 1 has the higher average trip revenue;
+- Longest trips originate mainly from: East Harlem South, Hollis, Great Kills, Tottenville, West Concourse, Pelham Bay/City Island, Kew Gardens, Midland Beach, Fordham South, St. Albans.
+- Tips are strongly correlated with trip distance. Longer trips tend to generate higher tips.
+- Weekdays show higher average fares than weekends.
+- Vendor Performance: Vendor 1 generates the highest average trip revenue; Vendor 2 underperforms relative to Vendor 1.
+
+## Feature Engineering & Cleaning
+
+- Trip duration converted to minutes; outliers removed (zero distances, impossible speeds).
+- Flags added: `long_trip` (>10 miles), `high_tip` (>20% tip), time and distance segments.
+- Combined segments (`time × distance`) created for multi-dimensional insights.
