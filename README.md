@@ -18,7 +18,7 @@ Includes pickup/dropoff times, trip distance, total fare, tip amount, and PULoca
 
 - Revenue peaks at commute hours.
 - Longest trips originate mainly from: East Harlem South, Hollis, Great Kills, Tottenville, West Concourse, Pelham Bay/City Island, Kew Gardens, Midland Beach, Fordham South, St. Albans.
-- Tips are strongly correlated with trip distance. Longer trips tend to generate higher tips.
+- Tip percentage and tip amount show very weak negative correlations with trip distance (correlation coefficients –0.128 and –0.095, respectively). Although the hourly charts appear to follow a similar trend, this is largely due to shared ride volume patterns across the day rather than a meaningful causal relationship between distance and tipping. Overall, tipping behavior is largely independent of trip distance.
 - Weekdays show higher average fares than weekends.
 - Vendor Performance: Vendor 1 generates the highest average trip revenue; Vendor 2 underperforms relative to Vendor 1.
 
